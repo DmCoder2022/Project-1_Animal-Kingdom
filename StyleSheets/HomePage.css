@@ -1,0 +1,64 @@
+#container
+{
+    width:600px;
+    margin-left:270px;
+    vertical-align: top;
+    display:inline-block;
+}
+
+#topics
+{
+    width:300px;
+    height:400px;
+    margin-top:50px;
+    display:inline-block;
+    background-color:darkblue;
+}
+
+#topicsHeader
+{
+    text-align: center;;
+}
+
+.topicList
+{
+    width:200px;
+    background-color:orange;
+    border-radius:20px;
+    padding:4px;
+    padding-left:10px;
+}
+
+.topicList a
+{
+    color:darkblue;
+}
+
+#headerText
+{
+    text-align:center;
+}
+
+.text
+{
+    background-color:orange;
+    border-radius:20px;
+    padding:7px;
+}
+
+#image1
+{
+    width: 500px;
+}
+
+footer
+{
+    background-color:darkmagenta;
+    border-radius:20px;
+    padding:7px;
+}
+
+.references
+{
+    color:darkblue;
+}
